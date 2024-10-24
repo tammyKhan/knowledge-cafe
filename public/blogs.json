@@ -2,42 +2,42 @@
   {
     "id": 1,
     "cover": "https://i.ibb.co.com/HqbTy8g/image.png",
-    "title": "The Future of JavaScript",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "Jane Doe",
     "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
     "posted_date": "2024-10-10",
     "reading_time": 5,
-    "hashtags": ["#JavaScript", "#WebDevelopment", "#Programming"]
+    "hashtags": ["#Beginning", "#Programming"]
   },
   {
     "id": 2,
     "cover": "https://i.ibb.co.com/sP8XB8C/image.png",
-    "title": "A Guide to React Hooks",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "John Smith",
     "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
     "posted_date": "2024-10-15",
     "reading_time": 8,
-    "hashtags": ["#React", "#Hooks", "#Frontend"]
+    "hashtags": ["#Beginning", "#Programming"]
   },
   {
     "id": 3,
     "cover": "https://i.ibb.co.com/fHrZMbS/image.png",
-    "title": "Understanding CSS Grid",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "Emily Johnson",
     "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
     "posted_date": "2024-09-28",
     "reading_time": 6,
-    "hashtags": ["#CSS", "#Grid", "#WebDesign"]
+    "hashtags": ["#Beginning", "#Programming"]
   },
   {
     "id": 4,
     "cover": "https://i.ibb.co.com/nnv58s9/image.png",
-    "title": "Mastering Tailwind CSS",
+    "title": "How to get your first job as a self-taught programmer",
     "author": "Michael Lee",
     "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
     "posted_date": "2024-09-20",
     "reading_time": 7,
-    "hashtags": ["#TailwindCSS", "#CSS", "#Frontend"]
+    "hashtags": ["#Beginning", "#Programming"]
   }
 
 ]
